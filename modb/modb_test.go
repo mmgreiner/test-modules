@@ -4,6 +4,7 @@ import (
 	"testing"
 )
 
-func TestHalloB (t *testing.T) {
+func TestHalloB(t *testing.T) {
 	// everything ok
+	t.Error("fails")
 }
