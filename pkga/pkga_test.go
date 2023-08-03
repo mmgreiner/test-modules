@@ -1,4 +1,4 @@
-package moda_test
+package pkga_test
 
 import "testing"
 

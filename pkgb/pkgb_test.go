@@ -1,4 +1,4 @@
-package modb_test
+package pkgb_test
 
 import (
 	"testing"
